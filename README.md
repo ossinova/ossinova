@@ -19,11 +19,10 @@
 <!-- links -->
 ### Connect with me:
 
-<p align="center">
-[<img align="left" alt="Portfolio | Website" width="22px" src="https://img.shields.io/badge/Website-www.ossinova.github.io-blue?style=flat-square&logo=google-chrome" />][website]
-[<img align="left" alt="Oscar Dyremyhr | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-Oscar%20Dyremyhr-blue?style=flat-square&logo=linkedin" />][linkedin]
-[<img align="left" alt="Oscar Dyremyhr | Instagram" width="22px" src="https://img.shields.io/badge/Instagram-Oscar%20Dyremyhr-blue?style=flat-square&logo=instagram" />][instagram]
-</p>
+[<img align="left" alt="Portfolio | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Oscar Dyremyhr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Oscar Dyremyhr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [website]: https://ossinova.github.io
 [instagram]: https://www.instagram.com/oscar.dyremyhr/
