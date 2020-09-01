@@ -15,7 +15,7 @@
 <!--- stats-->
 <img align="left" alt="Oscar Dyremyhr's Github Stats" src="https://github-readme-stats.vercel.app/api?theme=vue&username=ossinova&show_icons=true&hide_border=true&hide=stars" />
 
-
+<br>
 <!-- links -->
 ### Connect with me:
 
