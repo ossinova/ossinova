@@ -12,16 +12,20 @@
 - ⚡ Fun fact: ...
 
 
-<!--- stats-->
-<img align="left" alt="Oscar Dyremyhr's Github Stats" src="https://github-readme-stats.vercel.app/api?theme=vue&username=ossinova&show_icons=true&hide_border=true&hide=stars" />
-
-<br>
+<br />
 <!-- links -->
 ### Connect with me:
 
 [<img align="left" alt="Portfolio | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Oscar Dyremyhr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Oscar Dyremyhr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+
+---
+<!--- stats-->
+<img align="left" alt="Oscar Dyremyhr's Github Stats" src="https://github-readme-stats.vercel.app/api?theme=vue&username=ossinova&show_icons=true&hide_border=true&hide=stars" />
+
+
 
 
 [website]: https://ossinova.github.io
